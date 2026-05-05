@@ -114,7 +114,25 @@ namespace Learning.Main
                         var acc2 = accounts.Find(idx => idx.accountNo == acNo2);
                         if (acc2 != null)
                         {
-                            acc2.balanceChk();
+                            int count = 3;
+                            while (count != 0)
+                            {
+                                Console.Write("Enter your PIN :");
+                                int pin1 = int.Parse(Console.ReadLine());
+                                var pinNo1 = accounts.Find(idx => idx.Pin == pin1);
+                                if (pinNo1 != null)
+                                {
+                                    pinNo1.balanceChk();
+                                    break;
+                                }
+
+                                else if (count > 0)
+                                {
+                                    count--;
+                                    Console.WriteLine($"Try again {count} times");
+                                }
+                                // else
+                            }
                         }
                         else
                         {
