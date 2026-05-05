@@ -1,0 +1,14 @@
+/home/haran/SKILL/NavaNala/Learning/Main/bin/Debug/net8.0/Main
+/home/haran/SKILL/NavaNala/Learning/Main/bin/Debug/net8.0/Main.deps.json
+/home/haran/SKILL/NavaNala/Learning/Main/bin/Debug/net8.0/Main.runtimeconfig.json
+/home/haran/SKILL/NavaNala/Learning/Main/bin/Debug/net8.0/Main.dll
+/home/haran/SKILL/NavaNala/Learning/Main/bin/Debug/net8.0/Main.pdb
+/home/haran/SKILL/NavaNala/Learning/Main/obj/Debug/net8.0/Main.GeneratedMSBuildEditorConfig.editorconfig
+/home/haran/SKILL/NavaNala/Learning/Main/obj/Debug/net8.0/Main.AssemblyInfoInputs.cache
+/home/haran/SKILL/NavaNala/Learning/Main/obj/Debug/net8.0/Main.AssemblyInfo.cs
+/home/haran/SKILL/NavaNala/Learning/Main/obj/Debug/net8.0/Main.csproj.CoreCompileInputs.cache
+/home/haran/SKILL/NavaNala/Learning/Main/obj/Debug/net8.0/Main.dll
+/home/haran/SKILL/NavaNala/Learning/Main/obj/Debug/net8.0/refint/Main.dll
+/home/haran/SKILL/NavaNala/Learning/Main/obj/Debug/net8.0/Main.pdb
+/home/haran/SKILL/NavaNala/Learning/Main/obj/Debug/net8.0/Main.genruntimeconfig.cache
+/home/haran/SKILL/NavaNala/Learning/Main/obj/Debug/net8.0/ref/Main.dll
