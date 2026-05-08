@@ -1,0 +1,14 @@
+/home/haran/SKILL/NavaNala/practice/bin/Debug/net8.0/practice
+/home/haran/SKILL/NavaNala/practice/bin/Debug/net8.0/practice.deps.json
+/home/haran/SKILL/NavaNala/practice/bin/Debug/net8.0/practice.runtimeconfig.json
+/home/haran/SKILL/NavaNala/practice/bin/Debug/net8.0/practice.dll
+/home/haran/SKILL/NavaNala/practice/bin/Debug/net8.0/practice.pdb
+/home/haran/SKILL/NavaNala/practice/obj/Debug/net8.0/practice.GeneratedMSBuildEditorConfig.editorconfig
+/home/haran/SKILL/NavaNala/practice/obj/Debug/net8.0/practice.AssemblyInfoInputs.cache
+/home/haran/SKILL/NavaNala/practice/obj/Debug/net8.0/practice.AssemblyInfo.cs
+/home/haran/SKILL/NavaNala/practice/obj/Debug/net8.0/practice.csproj.CoreCompileInputs.cache
+/home/haran/SKILL/NavaNala/practice/obj/Debug/net8.0/practice.dll
+/home/haran/SKILL/NavaNala/practice/obj/Debug/net8.0/refint/practice.dll
+/home/haran/SKILL/NavaNala/practice/obj/Debug/net8.0/practice.pdb
+/home/haran/SKILL/NavaNala/practice/obj/Debug/net8.0/practice.genruntimeconfig.cache
+/home/haran/SKILL/NavaNala/practice/obj/Debug/net8.0/ref/practice.dll
