@@ -1,0 +1,15 @@
+/home/haran/SKILL/NavaNala/Library_Management/obj/Debug/net8.0/Library_Management.GeneratedMSBuildEditorConfig.editorconfig
+/home/haran/SKILL/NavaNala/Library_Management/obj/Debug/net8.0/Library_Management.AssemblyInfoInputs.cache
+/home/haran/SKILL/NavaNala/Library_Management/obj/Debug/net8.0/Library_Management.AssemblyInfo.cs
+/home/haran/SKILL/NavaNala/Library_Management/obj/Debug/net8.0/Library_Management.csproj.CoreCompileInputs.cache
+/home/haran/SKILL/NavaNala/Library_Management/obj/Debug/net8.0/Library_Management.sourcelink.json
+/home/haran/SKILL/NavaNala/Library_Management/bin/Debug/net8.0/Library_Management
+/home/haran/SKILL/NavaNala/Library_Management/bin/Debug/net8.0/Library_Management.deps.json
+/home/haran/SKILL/NavaNala/Library_Management/bin/Debug/net8.0/Library_Management.runtimeconfig.json
+/home/haran/SKILL/NavaNala/Library_Management/bin/Debug/net8.0/Library_Management.dll
+/home/haran/SKILL/NavaNala/Library_Management/bin/Debug/net8.0/Library_Management.pdb
+/home/haran/SKILL/NavaNala/Library_Management/obj/Debug/net8.0/Library_Management.dll
+/home/haran/SKILL/NavaNala/Library_Management/obj/Debug/net8.0/refint/Library_Management.dll
+/home/haran/SKILL/NavaNala/Library_Management/obj/Debug/net8.0/Library_Management.pdb
+/home/haran/SKILL/NavaNala/Library_Management/obj/Debug/net8.0/Library_Management.genruntimeconfig.cache
+/home/haran/SKILL/NavaNala/Library_Management/obj/Debug/net8.0/ref/Library_Management.dll
